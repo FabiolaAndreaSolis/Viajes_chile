@@ -1,0 +1,7 @@
+body{background-color: black;}
+.container{display:block}
+H1{display: block;
+    text-align: center;
+    color: #fff;
+    padding:5%;    }
+    p{text-align: left;padding:2%;}
