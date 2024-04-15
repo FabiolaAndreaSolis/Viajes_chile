@@ -6,3 +6,6 @@ H1{display: block;
     padding:5%;    }
 p{text-align: left;padding:2%;}
 .container-fluid{display:block;padding:10%;}
+footer{background-color: #17a2b2;color:white;padding-left:2%;displey:block
+}
+h3{padding:5%;}
